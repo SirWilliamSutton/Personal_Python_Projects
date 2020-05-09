@@ -16,3 +16,4 @@ def game_baord(game_map, player=0, row=0, column=0, just_display=False):
 
 game = game_baord(game, player=1, row=2, column=1)
 
+Change
